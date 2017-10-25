@@ -91,6 +91,10 @@ This file contains a list of possible packages those you may need to install to 
 - [HTML Mustache](https://packagecontrol.io/packages/HTML%20Mustache)
 - [Handlebars](https://packagecontrol.io/packages/Handlebars)
 
+## Nim
+
+- [NimLime](https://packagecontrol.io/packages/NimLime)
+
 ## Nginx
 
 - [Nginx](https://packagecontrol.io/packages/nginx)

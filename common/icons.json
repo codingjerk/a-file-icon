@@ -832,6 +832,15 @@
       }
     ]
   },
+  "file_type_nim": {
+    "color": "yellow",
+    "syntaxes": [
+      {
+        "name": "Nim",
+        "scope": "source.nim"
+      }
+    ]
+  },
   "file_type_nginx": {
     "color": "green",
     "syntaxes": [
